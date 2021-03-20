@@ -1,5 +1,5 @@
 # Simple-Chatty-Bot
-At the beginning it is a simple console chat bot
+It is a simple console chat bot
 
 Example 1: a dialogue with the final version of bot
 
